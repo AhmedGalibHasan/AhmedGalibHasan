@@ -39,9 +39,9 @@ I like starting from a real constraint — a schedule that does not fit, a loan 
 
 ## GitHub snapshot
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedGalibHasan&show_icons=true&hide_border=true&theme=tokyonight)
+![Ahmed's GitHub stats](https://github-stats-extended.vercel.app/api?username=AhmedGalibHasan&show_icons=true&hide_border=true&theme=tokyonight)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedGalibHasan&layout=compact&hide_border=true&theme=tokyonight)
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=AhmedGalibHasan&layout=compact&hide_border=true&theme=tokyonight)
 
 ## Highlights
 
